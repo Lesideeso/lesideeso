@@ -1,6 +1,5 @@
 ---
 title: "Notre Jardin Collectif et Experimental"
-order: 5
+order: 3
 in_menu: true
 ---
- 
