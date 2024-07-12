@@ -4,6 +4,8 @@ order: 0
 in_menu: true
 ---
 ![ideeso-LOGO.png](https://i.postimg.cc/nzJfmyP3/ideeso-LOGO.png)
+![News-letter-2023-2024-removebg-preview.png](https://i.postimg.cc/qqMpWf01/News-letter-2023-2024-removebg-preview.png)
+
 # « On verra bien, un nouveau monde nous appartient »
 
 L'association Les Idées O est née par la volonté de construire un avenir meilleur pour les nouvelles générations. Ce lieu d’expérimentation se veut pilote, il est porteur de valeurs fortes sur le respect de la planète, du vivant, de l’être humain.
