@@ -3,6 +3,12 @@ title: "Activités"
 order: 1
 in_menu: true
 ---
+Nous proposons 3 poles d 'activités dans cette assoiciation
+
+- Des chantiers participatifs
+- Evenements
+- Des ateliers réguliers
+
 <iframe src="https://calendar.google.com/calendar/embed?height=600&wkst=2&ctz=Europe%2FParis&bgcolor=%23ffffff&title=Nos%20%C3%A9v%C3%A9nements&src=bGVzaWRlZXNvODNAZ21haWwuY29t&src=NjJmZjQyYzc3MzU1YjUzN2E4MTRhYmZmODI5Y2M1NGMyMjNiNWM4MzJmZjg5NjQzNzkwZDRiMGU0OGI3MzhjN0Bncm91cC5jYWxlbmRhci5nb29nbGUuY29t&src=N2MxM2EzYWUwODgyMWVjMDhjMDE5ZGNmYTA0NDBjOTU1YmM3ODU5MzQ1MzlmZDU5MTVkM2E3M2EzNmIzNTdlOUBncm91cC5jYWxlbmRhci5nb29nbGUuY29t&color=%23039BE5&color=%23E4C441&color=%23D50000" style="border:solid 1px #777" width="800" height="600" frameborder="0" scrolling="no"></iframe>
 
 
